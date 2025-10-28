@@ -15,7 +15,7 @@ My step-by-step **NeetCode 150** journey in Java — focused on interview prep, 
 
 ---
 
-## ⚙️ Project Structure
+## Project Structure
 Each folder contains:
 - Java solution (`.java`)
 - Problem-specific README (Approach / Complexity / Edge Cases)
@@ -23,7 +23,7 @@ Each folder contains:
 
 ---
 
-## 🧮 Arrays & Hashing
+## Arrays & Hashing
 
 | # | Problem | Approach | Time | Space | Key Idea |
 |---|----------|-----------|-------|--------|-----------|
@@ -31,7 +31,7 @@ Each folder contains:
 
 ---
 
-## 🪞 Two Pointers
+## Two Pointers
 
 | # | Problem | Approach | Time | Space | Key Idea |
 |---|----------|-----------|-------|--------|-----------|
@@ -41,7 +41,7 @@ Each folder contains:
 
 ---
 
-## 🌬 Sliding Window
+## Sliding Window
 
 | # | Problem | Approach | Time | Space | Key Idea |
 |---|----------|-----------|-------|--------|-----------|
@@ -52,7 +52,7 @@ Each folder contains:
 
 ---
 
-## 🧠 Sliding Window Insights
+## Sliding Window Insights
 1. Maintain the **window invariant** — what must stay true as you expand/shrink.
 2. **LC 3:** Remove before incrementing `left` to avoid duplicates.
 3. **LC 567:** Fixed window → no while-loop shrink.
@@ -61,14 +61,14 @@ Each folder contains:
 
 ---
 
-## 🗓 Progress Tracker
+## Progress Tracker
 > **Goal:** Finish NeetCode 150 by Jan 1 2026
 > **Current:** 7 / 150 problems completed (4 Sliding Window, 3 Two Pointers, 1 Hashing)
 > **Next:** Stack category starts late October → Valid Parentheses and Min Stack
 
 ---
 
-## 🧩 Future Enhancements
+## Future Enhancements
 - Add JUnit tests per problem
 - Automate README table updates with Python/Maven script
 - Add progress badge & daily tracker section
