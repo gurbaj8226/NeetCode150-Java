@@ -8,10 +8,10 @@ My step-by-step **NeetCode 150** journey in Java — focused on interview prep, 
 
 | Category | Status | Notes |
 |-----------|---------|-------|
-| Arrays & Hashing | ✅ Started | Finished Two Sum |
-| Two Pointers | ✅ Active | Valid Palindrome, Two Sum II, Container With Most Water |
-| Sliding Window | ✅ Active | Best Time to Buy/Sell Stock, Longest Substring, Permutation in String, Minimum Window Substring |
-| Stack | 🔜 Next | Valid Parentheses, Min Stack upcoming |
+| Arrays & Hashing | Started | Finished Two Sum |
+| Two Pointers | Active | Valid Palindrome, Two Sum II, Container With Most Water |
+| Sliding Window | Active | Best Time to Buy/Sell Stock, Longest Substring, Permutation in String, Minimum Window Substring |
+| Stack | Next | Valid Parentheses, Min Stack upcoming |
 
 ---
 
