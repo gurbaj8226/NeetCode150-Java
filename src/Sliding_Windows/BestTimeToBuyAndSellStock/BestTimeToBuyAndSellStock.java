@@ -10,7 +10,6 @@ public class BestTimeToBuyAndSellStock {
 			}
 			else
 		    	left=right;
-			
 		}
 		return maximum;
 	}

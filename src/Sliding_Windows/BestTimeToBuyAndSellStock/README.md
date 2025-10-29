@@ -18,7 +18,9 @@
 
 #Example: 
 Input: [7, 1, 5, 3, 6, 4]
+
 Output: 5
+
 Explanation: Buy at 1, sell at 6
 
 #Java Code: 

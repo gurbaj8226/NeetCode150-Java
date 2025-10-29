@@ -19,7 +19,9 @@
 
 #Example: 
 Input: s1 = "ab", s2 = "eidbaooo"
+
 Output: true
+
 Explanation: The substring 'ba' is present in 's2', which is a permutation of 'ab', so the function returns true; 
 
 #Java Code: 

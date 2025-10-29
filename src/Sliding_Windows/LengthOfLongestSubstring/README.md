@@ -18,7 +18,9 @@
 
 #Example: 
 Input: "abcabcbb"
+
 Output: 3
+
 Explanation: The longest substring without repeating characters is "abc".
 
 #Java Code: 
