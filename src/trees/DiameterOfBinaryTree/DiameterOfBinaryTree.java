@@ -1,7 +1,5 @@
 package trees.DiameterOfBinaryTree;
 
-import java.io.PrintStream;
-
 public class DiameterOfBinaryTree {
 	private int diameter;
 
