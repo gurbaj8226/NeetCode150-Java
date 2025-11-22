@@ -2,8 +2,8 @@
 
 **Category:** Backtracking (NeetCode)  
 **Difficulty:** Medium  
-**Time Complexity:** O(T) where T is number of combinations  
-**Space Complexity:** O(target)
+**Time Complexity:** O(2^(t/m)) where T is the target and m is the minimum value 
+**Space Complexity:** O(t/m)
 
 ## Problem Description
 Given an array of distinct integers `candidates` and a target integer `target`,  

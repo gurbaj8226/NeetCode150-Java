@@ -2,8 +2,8 @@
 
 **Category:** Graphs (NeetCode)  
 **Difficulty:** Medium  
-**Time Complexity:** O(m × n × 4^L)  
-**Space Complexity:** O(L)
+**Time Complexity:** O(m × 4^n)  
+**Space Complexity:** O(n)
 
 ## Problem Description
 Given an `m x n` board of characters and a string `word`,  
